@@ -9,4 +9,4 @@ Test
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/fabriziomusacchio/Github-Release-Test/main)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/FabrizioMusacchio/Github-Release-Test/main)
