@@ -9,7 +9,7 @@ Test
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-
+[![Build Status](https://app.travis-ci.com/Sulstice/global-chem.svg?branch=master)](https://app.travis-ci.com/Sulstice/global-chem)
 
 
 [![GitHub release](https://img.shields.io/github/v/release/FabrizioMusacchio/Github-Release-Test?label=version)](https://github.com/FabrizioMusacchio/Github-Release-Test/releases)
